@@ -63,17 +63,23 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+# 📖 [HOTEL MANAGEMENT SYSTEM] <a name="about-project"></a>
+A hotel management system project involves the development of a software solution tailored to the needs of hotels or hospitality establishments. It encompasses designing and implementing modules for reservations, guest management, housekeeping, billing, inventory, and reporting. The project aims to create an efficient, user-friendly platform to streamline hotel operations, enhance guest satisfaction, and optimize resource management.
 
 ## 🛠 Built With <a name="built-with"></a>
+Vs code,notepad++
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Frontend:
+
+HTML
+CSS
+JavaScript
+Backend:
+php
+Git for version control
+VS Code as the code editor
 
 <details>
   <summary>Client</summary>
